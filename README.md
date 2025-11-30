@@ -8,18 +8,6 @@ Below is a preview of the application interface:
 
 ![GUI Screenshot](GUI-APLIKASI-BINER/Gui.png)
 
-## 📖 Table of Contents
-- [Features](#features)  
-- [Operations Supported](#operations-supported)  
-- [GUI Screenshot](#gui-screenshot)  
-- [Getting Started](#getting-started)  
-- [Usage](#usage)  
-- [Requirements](#requirements)  
-- [Project Structure](#project-structure)  
-- [License](#license)
-
----
-
 ## ✨ Features
 
 - User-friendly **Graphical User Interface (GUI)**.
